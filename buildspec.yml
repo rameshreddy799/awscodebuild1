@@ -32,5 +32,5 @@ phases:
       - echo '...replace with real build commands...'
 
 artifacts: 
-  files:
+  files: 
     - '**/*'
