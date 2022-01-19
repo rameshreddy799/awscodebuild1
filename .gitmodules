@@ -1,0 +1,3 @@
+[submodule "awscodebuildsubmodule3"]
+	path = awscodebuildsubmodule3
+	url = git@github.com:rameshreddy799/awscodebuildsubmodule3.git
