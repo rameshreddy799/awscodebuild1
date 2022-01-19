@@ -1,4 +1,4 @@
-from awscodebuildsubmodule3.hello_world import printFunction
+from awscodebuildsubmodule3.hello_world[1] import printFunction
 
 print("Starting main function...")
 printFunction()
