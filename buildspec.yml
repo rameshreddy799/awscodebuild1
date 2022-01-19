@@ -25,7 +25,6 @@ phases:
       - git remote -v
       - git remote add origin git@github.com:rameshreddy799/awscodebuild1.git
       - git fetch origin main:tmp
-      - git rm --cached .gitignore
       - git rebase tmp
       - git push origin HEAD:main
       - git branch -D tmp
